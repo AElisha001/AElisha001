@@ -27,13 +27,13 @@ I am a Data Analyst (Product and Web analytics)  <img src="https://media.giphy.c
 - :telescope: I work as a remote Data Analyst, providing data-centric solutions to individuals and cooperate
 organizations, therefore assisting my clients to get valuable insights which is used to make informed business decisions. My expertise include;
 
-> **Data wrangling (data gathering and cleaning)**
+> Data wrangling (data gathering and cleaning)
 
-> **Data Analysis/Interpretation**
+> Data Analysis/Interpretation
 
-> **Data Modeling/Visualization**
+> Data Modeling/Visualization
 
-> **Product and Web analytics**
+> Product and Web analytics
 
 - :seedling: Exploring Technical Content Writing.
 
