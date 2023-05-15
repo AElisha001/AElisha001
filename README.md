@@ -23,17 +23,21 @@
 
 
 ### :man_technologist: About Me :
-I am a Data Analyst (Product and Web analytics)  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I work as a remote Data Analyst, providing data-centric solutions to individuals and cooperate
-organizations, therefore assisting my clients to get valuable insights which is used to make informed business decisions. My expertise include;
+Hi, I am a Business Intelligence/ Data Analyst   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Nigeria.
+- :telescope: I work as a remote Data Analyst, providing business intelligence solutions to individuals and cooperate
+organizations, thereby assisting my clients to get valuable insights from their business data which is then used to make informed decisions. My expertise include;
 
 > Data wrangling (data gathering and cleaning)
 
-> Data Analysis/Interpretation
+> Data Analysis/Visualization
 
-> Data Modeling/Visualization
+> Data Storytelling
 
-> Product and Web analytics
+> Data Modeling
+
+> Data Warehouse (ETL/ ELT)
+
+> Web Analytics
 
 - :seedling: Exploring Technical Content Writing.
 
